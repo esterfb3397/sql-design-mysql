@@ -39,7 +39,7 @@ la manera en que el diseño E-R puede transformarse en un conjunto de esquemas d
 y el modo en el que pueden incluir algunas de las restricciones en ese diseño.
 
 Está compuesto por:
-    -**Entidades** cosa u objeto en el mundo real que es distinguible de todos los demás
+    - **Entidades** cosa u objeto en el mundo real que es distinguible de todos los demás
     objetos .
     - **Atributos**:Describen las propiedades que posee cada
     miembro de un conjunto de entidades.
